@@ -1,0 +1,9 @@
+.header{
+    color: rgba(255,255,255,0.87);
+    text-align: center;
+    padding: 15px 0px;
+    font-family: "Product Sans",Arial,sans-serif;
+    border: 1px solid lightgray;
+    border-right: none;
+    border-left: none;
+}

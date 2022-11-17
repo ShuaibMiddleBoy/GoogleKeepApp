@@ -1,0 +1,23 @@
+
+.note{
+    width: 270px;
+    height: 180px;
+    margin: 32px 32px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+.note h2{
+    margin: 10px 10px;
+    color: lightgray;
+}
+
+.note p{
+    margin: 0px 10px;
+    height: 90px;
+    color: lightgray;
+}
+
+.note .btn{
+    float: right;
+}
